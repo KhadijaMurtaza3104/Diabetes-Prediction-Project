@@ -1,5 +1,10 @@
-fastapi
-uvicorn
+# fastapi
+# uvicorn
+# numpy
+# pandas
+# scikit-learn
+# joblib
+gradio
 numpy
 pandas
 scikit-learn
